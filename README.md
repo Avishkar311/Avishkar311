@@ -2,10 +2,6 @@
 <h1 align="center">Hey there, I’m Avishkar</h1>
 
 ###
-<div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
-</div>
 
 <h3 align="left">Hi, I'm Avishkar Hasole. With a background in Electronics and Telecommunications, I'm now diving into the world of AI and machine learning. My passion for technology drives me to explore innovative solutions and tackle complex challenges. I’m excited to connect with like-minded individuals and contribute to advancements in the field.</h3>
 
